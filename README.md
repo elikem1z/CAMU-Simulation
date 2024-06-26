@@ -1,4 +1,4 @@
-# CAMU-Simulation-for-Ashesi-University
+# CAMU-Simulation
 
 The primary goal of CAMU is to facilitate efficient course registration, course allocation, and faculty assignment processes while also managing academic records and generating student transcripts. This utility is intended to serve the needs of students, faculty members, and administrative staff by providing a centralized platform for managing course-related activities. 
 
